@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "**Coop Mad**"
+title: **Coop Mad**
 description: "Her kan du handle dine dagligvarer"
 header-img: "img/about-bg.jpg"
 ---
