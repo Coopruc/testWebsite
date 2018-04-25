@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "This is what I do."
+title: "Coop Mad"
+description: "Her kan du handle dine dagligvarer"
 header-img: "img/about-bg.jpg"
 ---
 
